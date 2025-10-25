@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebd43c0-d2ca-4358-9afc-566b42145ef7" name="Changes" comment="" />
+    <list default="true" id="1ebd43c0-d2ca-4358-9afc-566b42145ef7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,10 +36,11 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/jakubleszczewski/Desktop/wstęp do programomowania",
+    "last_opened_file_path": "/Users/jakubleszczewski/Desktop/wstęp do programomowania/wstep_do_programowania/labolatoria/lab_2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,9 +53,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/data" />
+      <recent name="$PROJECT_DIR$/wstep_do_programowania/labolatoria" />
+      <recent name="$PROJECT_DIR$/wstep_do_programowania" />
       <recent name="$PROJECT_DIR$/lab_1/block_schema" />
       <recent name="$PROJECT_DIR$/lab_1" />
     </key>
@@ -98,7 +105,8 @@
       <option name="presentableId" value="Default" />
       <updated>1761136635800</updated>
       <workItem from="1761136637293" duration="10671000" />
-      <workItem from="1761303121635" duration="3678000" />
+      <workItem from="1761303121635" duration="5655000" />
+      <workItem from="1761386555238" duration="4384000" />
     </task>
     <servers />
   </component>
