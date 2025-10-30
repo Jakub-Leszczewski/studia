@@ -19,30 +19,32 @@
 # Oblicz całkowity wynik drużyny, dodając punkty zdobyte ze zdobytych bramek i wszelkie
 # stosowne punkty bonusowe. Wynik wydrukuj do konsoli.
 
-gol_multiplier = 10
-five_gol_bonus = 5
-ten_gol_bonus = 10
-gol = int(input('Zdobyte bramki: '))
-total_points = gol * gol_multiplier
+GOAL_MULTIPLIER = 10
+FIVE_GOAL_BONUS = 5
+TEN_GOAL_BONUS = 10
 
-if gol > 5:
-    total_points += five_gol_bonus
-    if gol > 10:
-        total_points += ten_gol_bonus
+goal = int(input('Zdobyte bramki: '))
+total_points = goal * GOAL_MULTIPLIER
+
+if goal > 10:
+    total_points += TEN_GOAL_BONUS
+elif goal > 5:
+    total_points += FIVE_GOAL_BONUS
 
 print(f'Punkty drużyny: {total_points}')
 
 # # b
-# gol_multiplier = 10
-# five_gol_bonus = 5
-# ten_gol_bonus = 10
-# gol = int(input('Zdobyte bramki: '))
-# total_points = gol * gol_multiplier
+# GOAL_MULTIPLIER = 10
+# FIVE_GOAL_BONUS = 5
+# TEN_GOAL_BONUS = 10
 #
-# if gol > 5:
-#     total_points += five_gol_bonus
-# if gol > 10:
-#     total_points += ten_gol_bonus
+# goal = int(input('Zdobyte bramki: '))
+# total_points = goal * GOAL_MULTIPLIER
+#
+# if goal > 5:
+#     total_points += FIVE_GOAL_BONUS
+# if goal > 10:
+#     total_points += TEN_GOAL_BONUS
 #
 # print(f'Punkty drużyny: {total_points}')
 
