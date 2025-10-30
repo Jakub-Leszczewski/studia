@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="1ebd43c0-d2ca-4358-9afc-566b42145ef7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/7.py" beforeDir="false" afterPath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/data/notowania_gieldowe-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/data/notowania_gieldowe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/data/notowania_gieldowe.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,27 +36,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/jakubleszczewski/Desktop/wstęp do programomowania/wstep_do_programowania/labolatoria/lab_2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jakubleszczewski/Desktop/wstęp do programomowania/wstep_do_programowania/labolatoria/lab_2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2" />
@@ -106,7 +112,8 @@
       <updated>1761136635800</updated>
       <workItem from="1761136637293" duration="10671000" />
       <workItem from="1761303121635" duration="5655000" />
-      <workItem from="1761386555238" duration="4384000" />
+      <workItem from="1761386555238" duration="9776000" />
+      <workItem from="1761824917849" duration="1539000" />
     </task>
     <servers />
   </component>
