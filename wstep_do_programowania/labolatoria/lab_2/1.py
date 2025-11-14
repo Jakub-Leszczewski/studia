@@ -5,7 +5,7 @@
 # Studenci którzy otrzymali liczbę punków z przedziału 50-80, mogą poprawić jego wynik.
 # Studenci, którzy zdobyli poniżej 50 punktów, muszą go poprawić.
 
-points = int(intput('Podaj liczbę punktów: '))
+points = int(input('Podaj liczbę punktów: '))
 
 if points > 80:
     print('Zaliczyłeś egzamin w terminie 0.')
