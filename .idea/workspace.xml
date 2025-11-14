@@ -6,11 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1ebd43c0-d2ca-4358-9afc-566b42145ef7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/7.py" beforeDir="false" afterPath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/data/notowania_gieldowe-2.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/data/notowania_gieldowe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/data/notowania_gieldowe.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +43,7 @@
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jakubleszczewski/Desktop/wstęp do programomowania/wstep_do_programowania/labolatoria/lab_2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jakubleszczewski/dev/studia&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -113,7 +110,9 @@
       <workItem from="1761136637293" duration="10671000" />
       <workItem from="1761303121635" duration="5655000" />
       <workItem from="1761386555238" duration="9776000" />
-      <workItem from="1761824917849" duration="1539000" />
+      <workItem from="1761824917849" duration="2401000" />
+      <workItem from="1763064450259" duration="889000" />
+      <workItem from="1763137074439" duration="932000" />
     </task>
     <servers />
   </component>
