@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1ebd43c0-d2ca-4358-9afc-566b42145ef7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/data/notowania_gieldowe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/data/notowania_gieldowe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/Jakub_Leszczewski_73149_L7_Sprawozdanie_LAB2_WstępDoProgramowania.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMConfigurable&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -60,11 +58,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2" />
       <recent name="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/data" />
       <recent name="$PROJECT_DIR$/wstep_do_programowania/labolatoria" />
       <recent name="$PROJECT_DIR$/wstep_do_programowania" />
       <recent name="$PROJECT_DIR$/lab_1/block_schema" />
-      <recent name="$PROJECT_DIR$/lab_1" />
     </key>
   </component>
   <component name="RunManager">
@@ -112,7 +110,9 @@
       <workItem from="1761386555238" duration="9776000" />
       <workItem from="1761824917849" duration="2401000" />
       <workItem from="1763064450259" duration="889000" />
-      <workItem from="1763137074439" duration="932000" />
+      <workItem from="1763137074439" duration="1978000" />
+      <workItem from="1763204268954" duration="4398000" />
+      <workItem from="1764355440017" duration="2954000" />
     </task>
     <servers />
   </component>
