@@ -40,7 +40,7 @@
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jakubleszczewski/dev/studia&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jakubleszczewski/dev/studia/wstep_do_programowania/labolatoria/lab_6&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -53,15 +53,16 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_6" />
       <recent name="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_6/data" />
       <recent name="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2" />
       <recent name="$PROJECT_DIR$/wstep_do_programowania/labolatoria/lab_2/data" />
       <recent name="$PROJECT_DIR$/wstep_do_programowania/labolatoria" />
       <recent name="$PROJECT_DIR$/wstep_do_programowania" />
-      <recent name="$PROJECT_DIR$/lab_1/block_schema" />
     </key>
   </component>
   <component name="RunManager">
@@ -112,7 +113,13 @@
       <workItem from="1763137074439" duration="1978000" />
       <workItem from="1763204268954" duration="4398000" />
       <workItem from="1764355440017" duration="3661000" />
-      <workItem from="1764413202012" duration="5214000" />
+      <workItem from="1764413202012" duration="5237000" />
+      <workItem from="1764433259145" duration="1717000" />
+      <workItem from="1765584059916" duration="890000" />
+      <workItem from="1765633043606" duration="4630000" />
+      <workItem from="1767022542986" duration="3573000" />
+      <workItem from="1768647019140" duration="5703000" />
+      <workItem from="1769793007160" duration="9665000" />
     </task>
     <servers />
   </component>
